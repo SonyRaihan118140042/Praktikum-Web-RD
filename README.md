@@ -17,6 +17,6 @@ jangan lupa tambahkan hasil screenshoot web di dalam file
 
 ### Tambahkan identitas dasar di sini: 
 
-Nama  :
+Nama  : Sony Raihan Putra Butar Butar
 <br>
-NIM   :
+NIM   : 118140042
